@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# 编辑器
+.vscode/
+.idea/
+
+# WorkBuddy 工作区数据（保留在本地，不入库）
+.workbuddy/
+
+# 依赖与构建产物（当前项目无依赖，预留）
+node_modules/
+dist/
